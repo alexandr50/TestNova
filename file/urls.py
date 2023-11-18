@@ -1,5 +1,5 @@
 
-from django.urls import path, include
+from django.urls import path
 
 from .views import FileCreateView
 from .apps import FileConfig
